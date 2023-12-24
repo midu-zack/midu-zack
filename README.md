@@ -1,6 +1,6 @@
 [![MasterHead](https://asapkerala.gov.in/wp-content/uploads/2022/02/net.jpg)](https://asapkerala.gov.in/wp-content/uploads/2022/02/net.jpg)
 
-<h1 align="center">Hi 👋, I'm Muhammed midlaj</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Midlaj</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
