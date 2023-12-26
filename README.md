@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/midu_zack" target="blank"><img src="https://img.shields.io/twitter/follow/midu_zack?logo=twitter&style=for-the-badge" alt="midu_zack" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce web site**
+- 🔭 I’m currently working on **E-commerce website**
 
 - 🌱 I’m currently learning **MongoDb**
 
